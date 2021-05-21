@@ -1,93 +1,34 @@
 package baithi;
 
-import java.util.Scanner;
-
 public class Student {
-    private String studentId;
+    private String studentID;
     private String name;
     private String address;
-    private int phone;
+    private String phoneNumber;
 
-    public Student() {
-
-    }
-
-    public Student(String studentId, String name, String address, int phone) {
-        this.studentId = studentId;
+    public Students(String studentID, String name, String address, String phoneNumber) {
+        this.studentID = studentID;
         this.name = name;
         this.address = address;
-        this.phone = phone;
+        this.phoneNumber = phoneNumber;
     }
-    public void input(){
-        Scanner sc = new Scanner(System.in);
-        System.out.print("Input Id : ");
-        studentId = sc.nextLine();
-        System.out.print("Input name : ");
-        name = sc.nextLine();
-        System.out.print("Input address : ");
-        address = sc.nextLine();
-        System.out.print("Input phone : ");
-        phone = Integer.parseInt(sc.nextLine());
-    }
-    @Override
-    public String toString() {
-        return "Student{" + "studentId=" + studentId + ", name=" + name + ", address=" + address + ", phone=" + phone + '}';
+    public  static Students createStudent(String studentID,String name,String address,String phoneNumber){
+        return new Students(studentID,name,address,phoneNumber);
     }
 
-    /**
-     * @return the studentId
-     */
-    public String getStudentId() {
-        return studentId;
+    public String getStudentID() {
+        return studentID;
     }
 
-    /**
-     * @param studentId the studentId to set
-     */
-    public void setStudentId(String studentId) {
-        this.studentId = studentId;
-    }
-
-    /**
-     * @return the name
-     */
     public String getName() {
         return name;
     }
 
-    /**
-     * @param name the name to set
-     */
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    /**
-     * @return the address
-     */
     public String getAddress() {
         return address;
     }
 
-    /**
-     * @param address the address to set
-     */
-    public void setAddress(String address) {
-        this.address = address;
+    public String getPhoneNumber() {
+        return phoneNumber;
     }
-
-    /**
-     * @return the phone
-     */
-    public int getPhone() {
-        return phone;
-    }
-
-    /**
-     * @param phone the phone to set
-     */
-    public void setPhone(int phone) {
-        this.phone = phone;
-    }
-
 }
