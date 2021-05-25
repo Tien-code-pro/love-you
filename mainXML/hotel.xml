@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hotel>
+    <hotel_name>
+        999
+    </hotel_name>
+    <hotel_address>
+        #1, where streets, binh luc city, ha nam province.
+        <hotel_phone>
+            0352787827
+        </hotel_phone>
+    </hotel_address>
+    <hotel_Rating>
+        *****
+    </hotel_Rating>
+    <title>
+        hotel healthy!
+    </title>
+
+</hotel>

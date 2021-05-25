@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+    Document    :AnnualDay.xml
+    Author      :vincent
+    Description :
+        Describes about the Annual Day.
+-->
+<Annua_Day company="Aptech">
+    <Event>
+        <!--        Gives the names of the people who played an important role.-->
+        <Coordinator>
+            James
+        </Coordinator>
+        <SoundManager>
+            Kim
+        </SoundManager>
+        <Director>
+            Daniel
+        </Director>
+    </Event>
+    <Event>
+        <!--        Gives descriptions of the events.-->
+        Drama
+        <Name>
+            A doctor's story.
+        </Name>
+        <Director>
+            Spencor
+        </Director>
+        <Participants number="4">
+            Tony,Bony,Sam,Lily
+        </Participants>
+    </Event>
+</Annua_Day>
