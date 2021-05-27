@@ -1,0 +1,37 @@
+<?xml version="1.0"  encoding ="UTD8"?>
+        <!ELEMENT SaleDetails (sale+)>
+        <!ELEMENT sale (BillNumber,Date,Branch,Item+, Payment)*>
+        <!ELEMENT BillNumber (#PCDATA)>
+        <!ELEMENT Date (#PCDATA)>
+        <!ELEMENT Branch (#PCDATA)>
+        <!ELEMENT Item (Number, Name, Code, Quantity,Price,Discount,Total)>
+        <!ELEMENT Number (#PCDATA)>
+        <!ELEMENT Name (#PCDATA)*>
+        <!ELEMENT Code (#PCDATA)>
+        <!ELEMENT Quantity (#PCDATA)>
+        <!ELEMENT Price (#PCDATA)>
+        <!ELEMENT Discount (#PCDATA)>
+        <!ELEMENT Total (#PCDATA)>
+        <!ELEMENT Payment (CustomerName, CarName, CarNumber, AccountNumber,GrandTotal)>
+        <!ELEMENT CustomerName (#PCDATA)>
+        <!ELEMENT CarName (#PCDATA)>
+        <!ELEMENT CarNumber (#PCDATA)>
+        <!ELEMENT AccountNumber (#PCDATA)>
+        <!ELEMENT GrandTotal (#PCDATA)>
+
+<!ATTLIST Name Category (Apparel|Footwear )"Apparel">
+        <!ATTLIST Payment Mode (Card|Casd )"Card">
+        <!ATTLIST CarName Type (Credit|Debit )"Credit">
+
+        <!ELEMENT VH "van huesen">
+        <!ELEMENT AS "AllenSolly">
+        <!ELEMENT PA "Park Avenue">
+        <!ELEMENT RD "Reid and Taylor">
+        <!ELEMENT LS "Levi Strauss">
+        <!ELEMENT TH "Tommy Hilfiger">
+        <!ELEMENT MC "marco Ricci">
+        <!ELEMENT MC "Monte Carlo">
+        <!ELEMENT IC "IC IC">
+        <!ELEMENT HD "Huong dan">
+        <!ELEMENT VS "Visa">
+        <!ELEMENT AX "Anh xu">
