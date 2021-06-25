@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "buoi1trenlop/1.0.0": {
+        "runtime": {
+          "buoi1trenlop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "buoi1trenlop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

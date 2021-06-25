@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "thaydoichuoi/1.0.0": {
+        "runtime": {
+          "thaydoichuoi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "thaydoichuoi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

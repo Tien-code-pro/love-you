@@ -1,0 +1,15 @@
+E:\C#\buoi1trenlop\Exercise6\bin\Debug\net5.0\Exercise6.exe
+E:\C#\buoi1trenlop\Exercise6\bin\Debug\net5.0\Exercise6.deps.json
+E:\C#\buoi1trenlop\Exercise6\bin\Debug\net5.0\Exercise6.runtimeconfig.json
+E:\C#\buoi1trenlop\Exercise6\bin\Debug\net5.0\Exercise6.runtimeconfig.dev.json
+E:\C#\buoi1trenlop\Exercise6\bin\Debug\net5.0\Exercise6.dll
+E:\C#\buoi1trenlop\Exercise6\bin\Debug\net5.0\ref\Exercise6.dll
+E:\C#\buoi1trenlop\Exercise6\bin\Debug\net5.0\Exercise6.pdb
+E:\C#\buoi1trenlop\Exercise6\obj\Debug\net5.0\Exercise6.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\buoi1trenlop\Exercise6\obj\Debug\net5.0\Exercise6.AssemblyInfoInputs.cache
+E:\C#\buoi1trenlop\Exercise6\obj\Debug\net5.0\Exercise6.AssemblyInfo.cs
+E:\C#\buoi1trenlop\Exercise6\obj\Debug\net5.0\Exercise6.csproj.CoreCompileInputs.cache
+E:\C#\buoi1trenlop\Exercise6\obj\Debug\net5.0\Exercise6.dll
+E:\C#\buoi1trenlop\Exercise6\obj\Debug\net5.0\ref\Exercise6.dll
+E:\C#\buoi1trenlop\Exercise6\obj\Debug\net5.0\Exercise6.pdb
+E:\C#\buoi1trenlop\Exercise6\obj\Debug\net5.0\Exercise6.genruntimeconfig.cache

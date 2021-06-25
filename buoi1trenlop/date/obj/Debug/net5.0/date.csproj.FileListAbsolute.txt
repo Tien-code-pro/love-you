@@ -1,0 +1,15 @@
+E:\C#\buoi1trenlop\date\bin\Debug\net5.0\date.exe
+E:\C#\buoi1trenlop\date\bin\Debug\net5.0\date.deps.json
+E:\C#\buoi1trenlop\date\bin\Debug\net5.0\date.runtimeconfig.json
+E:\C#\buoi1trenlop\date\bin\Debug\net5.0\date.runtimeconfig.dev.json
+E:\C#\buoi1trenlop\date\bin\Debug\net5.0\date.dll
+E:\C#\buoi1trenlop\date\bin\Debug\net5.0\ref\date.dll
+E:\C#\buoi1trenlop\date\bin\Debug\net5.0\date.pdb
+E:\C#\buoi1trenlop\date\obj\Debug\net5.0\date.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\buoi1trenlop\date\obj\Debug\net5.0\date.AssemblyInfoInputs.cache
+E:\C#\buoi1trenlop\date\obj\Debug\net5.0\date.AssemblyInfo.cs
+E:\C#\buoi1trenlop\date\obj\Debug\net5.0\date.csproj.CoreCompileInputs.cache
+E:\C#\buoi1trenlop\date\obj\Debug\net5.0\date.dll
+E:\C#\buoi1trenlop\date\obj\Debug\net5.0\ref\date.dll
+E:\C#\buoi1trenlop\date\obj\Debug\net5.0\date.pdb
+E:\C#\buoi1trenlop\date\obj\Debug\net5.0\date.genruntimeconfig.cache

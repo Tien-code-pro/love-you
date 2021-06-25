@@ -1,0 +1,15 @@
+E:\C#\buoi1trenlop\thaydoichuoi\bin\Debug\net5.0\thaydoichuoi.exe
+E:\C#\buoi1trenlop\thaydoichuoi\bin\Debug\net5.0\thaydoichuoi.deps.json
+E:\C#\buoi1trenlop\thaydoichuoi\bin\Debug\net5.0\thaydoichuoi.runtimeconfig.json
+E:\C#\buoi1trenlop\thaydoichuoi\bin\Debug\net5.0\thaydoichuoi.runtimeconfig.dev.json
+E:\C#\buoi1trenlop\thaydoichuoi\bin\Debug\net5.0\thaydoichuoi.dll
+E:\C#\buoi1trenlop\thaydoichuoi\bin\Debug\net5.0\ref\thaydoichuoi.dll
+E:\C#\buoi1trenlop\thaydoichuoi\bin\Debug\net5.0\thaydoichuoi.pdb
+E:\C#\buoi1trenlop\thaydoichuoi\obj\Debug\net5.0\thaydoichuoi.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\buoi1trenlop\thaydoichuoi\obj\Debug\net5.0\thaydoichuoi.AssemblyInfoInputs.cache
+E:\C#\buoi1trenlop\thaydoichuoi\obj\Debug\net5.0\thaydoichuoi.AssemblyInfo.cs
+E:\C#\buoi1trenlop\thaydoichuoi\obj\Debug\net5.0\thaydoichuoi.csproj.CoreCompileInputs.cache
+E:\C#\buoi1trenlop\thaydoichuoi\obj\Debug\net5.0\thaydoichuoi.dll
+E:\C#\buoi1trenlop\thaydoichuoi\obj\Debug\net5.0\ref\thaydoichuoi.dll
+E:\C#\buoi1trenlop\thaydoichuoi\obj\Debug\net5.0\thaydoichuoi.pdb
+E:\C#\buoi1trenlop\thaydoichuoi\obj\Debug\net5.0\thaydoichuoi.genruntimeconfig.cache

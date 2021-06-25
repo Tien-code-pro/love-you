@@ -1,0 +1,16 @@
+E:\C#\buoi1trenlop\vidu1\bin\Debug\net5.0\vidu1.exe
+E:\C#\buoi1trenlop\vidu1\bin\Debug\net5.0\vidu1.deps.json
+E:\C#\buoi1trenlop\vidu1\bin\Debug\net5.0\vidu1.runtimeconfig.json
+E:\C#\buoi1trenlop\vidu1\bin\Debug\net5.0\vidu1.runtimeconfig.dev.json
+E:\C#\buoi1trenlop\vidu1\bin\Debug\net5.0\vidu1.dll
+E:\C#\buoi1trenlop\vidu1\bin\Debug\net5.0\ref\vidu1.dll
+E:\C#\buoi1trenlop\vidu1\bin\Debug\net5.0\vidu1.pdb
+E:\C#\buoi1trenlop\vidu1\obj\Debug\net5.0\vidu1.csproj.AssemblyReference.cache
+E:\C#\buoi1trenlop\vidu1\obj\Debug\net5.0\vidu1.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\buoi1trenlop\vidu1\obj\Debug\net5.0\vidu1.AssemblyInfoInputs.cache
+E:\C#\buoi1trenlop\vidu1\obj\Debug\net5.0\vidu1.AssemblyInfo.cs
+E:\C#\buoi1trenlop\vidu1\obj\Debug\net5.0\vidu1.csproj.CoreCompileInputs.cache
+E:\C#\buoi1trenlop\vidu1\obj\Debug\net5.0\vidu1.dll
+E:\C#\buoi1trenlop\vidu1\obj\Debug\net5.0\ref\vidu1.dll
+E:\C#\buoi1trenlop\vidu1\obj\Debug\net5.0\vidu1.pdb
+E:\C#\buoi1trenlop\vidu1\obj\Debug\net5.0\vidu1.genruntimeconfig.cache
